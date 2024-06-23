@@ -1,7 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": {
+    "title":"Introduction",
+    "theme":{
+      "layout":"full",
+      "sidebar":false
+    }
+  },
+  "Category1":"Category 1",
+  "Category2":"Category 2",
+  "Category3":"Category 3",
+  "Category4":"Category 4",
+  "Category5":"Category 5",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +18,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://mailto:subhavdel@gmail.com",
     "newWindow": true
   }
 }
